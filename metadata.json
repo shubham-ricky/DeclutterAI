@@ -1,0 +1,5 @@
+{
+  "name": "DeclutterAI",
+  "description": "AI-powered room organization and decluttering suggestions based on your photos.",
+  "requestFramePermissions": ["camera"]
+}
